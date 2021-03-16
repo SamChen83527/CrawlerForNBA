@@ -1,0 +1,16 @@
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.exe
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.deps.json
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.runtimeconfig.json
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.dll
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CrawlerForNBA.pdb
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.AssemblyInfo.cs
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.dll
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.pdb
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.genruntimeconfig.cache
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\obj\Debug\netcoreapp3.1\CrawlerForNBA.csproj.CopyComplete
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Debug\netcoreapp3.1\CsvHelper.dll

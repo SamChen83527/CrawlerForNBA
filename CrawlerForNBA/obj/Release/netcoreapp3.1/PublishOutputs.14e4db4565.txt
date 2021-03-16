@@ -1,0 +1,7 @@
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CrawlerForNBA.exe
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CrawlerForNBA.dll
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CrawlerForNBA.deps.json
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CrawlerForNBA.runtimeconfig.json
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CrawlerForNBA.pdb
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\AngleSharp.dll
+C:\Users\Sam\source\repos\CrawlerForNBA\CrawlerForNBA\bin\Release\netcoreapp3.1\publish\CsvHelper.dll
