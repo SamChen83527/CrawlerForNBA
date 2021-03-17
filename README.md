@@ -2,11 +2,11 @@
 A web crawler app for getting NBA players' career statistics.
 
 ## Run
-WIN APP
+**WIN APP**
 
 Click ```/CrawlerForNBA/bin/Release/netcoreapp3.1/publish/CrawlerForNBA.exe```
 
-CMD
+**CMD**
 ```bash
 cd /CrawlerForNBA/bin/Release/netcoreapp3.1/publish
 
