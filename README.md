@@ -3,6 +3,7 @@ A web crawler app for getting NBA players' career statistics.
 
 ## Run
 WIN APP
+
 Click ```/CrawlerForNBA/bin/Release/netcoreapp3.1/publish/CrawlerForNBA.exe```
 
 CMD
